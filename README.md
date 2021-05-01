@@ -12,6 +12,7 @@ IV. Model building
 *  TextBlob
 
  Logistic regression
+ 
  Random forest
 
 *  VaderSentiment
@@ -21,7 +22,9 @@ IV. Model building
 * Transfer Learning Model
 
  Logistic regression
+ 
  Decision tree
+ 
  Random forest
 
 * BERTweet
