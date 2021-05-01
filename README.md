@@ -10,16 +10,16 @@ III. Exploratory Data Analysis
 
 IV. Model building
 *  TextBlob
-Logistic regression!
-Random forest
+ Logistic regression
+ Random forest
 
 *  VaderSentiment
-Logistic regression
+ Logistic regression
 
 * Transfer Learning Model
-Logistic regression
-Decision tree
-Random forest
+ Logistic regression
+ Decision tree
+ Random forest
 
 * BERTweet
  
