@@ -2,7 +2,8 @@
 
 Objective: Sentiment Analysis & Modelling
 
-I. Dataset: get twitter's data from Kapple
+I. Dataset: Get twitter's data from Kapple
+https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
 
 II. Data Preprocessing: Data cleaning and consolidation
 
